@@ -1,0 +1,5 @@
+echo "please enter your username"
+read name
+echo "pleas enter your password"
+read -s password
+echo "welcome to lewoh27 application" 
